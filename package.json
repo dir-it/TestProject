@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "hear-me-type-tutorial",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Play a sound for every keyboard key pressed.",
   "main": "mainTest.js",
   "scripts": {
     "start": "electron ."
